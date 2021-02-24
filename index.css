@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(252, 155, 144);
+}
+
+h1{
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+}
+.mainHeaders{
+    font-size: xx-large;
+    text-align: center;
+    padding: 10%;
+}
+.headerOne{
+    list-style: none;
+    text-align: center;
+    display: inline;
+    background-color: rgb(211, 211, 211);
+    border: black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.headerOneItems{ 
+    background-color: rgb(155, 241, 233);
+    padding-top: 10px;
+    list-style: none;
+}
+.headerTwo{
+    list-style: none;
+    text-align: center;
+    display: inline;
+    background-color: rgb(211, 211, 211);
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+h2{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+input{
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+}
